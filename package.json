@@ -1,0 +1,16 @@
+{
+  "name": "nodeSerialPort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --inspect-brk main.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^9.2.5"
+  }
+}
